@@ -1,5 +1,5 @@
 """
-projekt_3.py: třetí projekt do Engeto Online Python Akademie
+projekt_3, scraper.py: třetí projekt do Engeto Online Python Akademie
 author: Michal Henyš
 email: henysmichal87@gmail.com
 discord: Michal Henys
