@@ -3,11 +3,11 @@ Třetí projekt v engeto project má za cíl stáhnout výsledky voleb za územn
 Pro tuto ukázku jsem zvolil Jihočeský kraj, okres České Budějovice.
 Prázdné řádky v tabulce jsou u toho města, které má více volebních okrsků viz. ČB - 90
 
-# výsledky hlasování - první argument:
+# Výsledky hlasování - první argument:
 URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=3&xnumnuts=3101
 
-# výsledný soubor - druhý argument:
-Soubor: vysledky_cb.scsv
+# Výsledný soubor - druhý argument:
+Soubor: vysledky_cb.scv
 
 # Spuštění programu: 
 python scraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=3&xnumnuts=3101" "vysledky_cb.csv"
